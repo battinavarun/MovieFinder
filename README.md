@@ -2,7 +2,7 @@
 
 A sleek and responsive movie search app built with **React**, **Tailwind CSS**, and **TMDb API**. Instantly search for popular movies, see trending titles, and get quick info — all in a smooth, user-friendly interface.
 
-![Hero Banner](./hero.png)
+
 
 ## 🚀 Features
 
